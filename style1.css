@@ -1,0 +1,55 @@
+.brocode{
+    font-family: cursive;
+
+}
+ #bio{
+    background-color: rgb(141, 223, 223);
+    border: chartreuse;
+} 
+.navbar{
+    border: rgb(226, 20, 20);
+    background-color: purple;
+    /* width: 2222px; */
+    /* height: 22px; */
+    padding: 2px 4px;
+    border-radius: 50px;
+}
+.navigation{
+    text-decoration: none;
+    color: black;
+}
+.brother{
+    display: flex;
+}
+.item{
+    padding: 2px 33px;
+    list-style: none;
+    color: black;
+}
+a:hover{
+    color: rgb(160, 220, 20);
+
+}
+.Section
+{
+    border: 2px solid red;
+    height: 325px;
+    padding-right: 55px;
+
+   
+}
+.heading{
+    font-size: 28px;
+}
+.h2{
+    padding-top: 3px;
+    line-height: 1.8;
+    margin-top: -14px;
+    font-size: 32px;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.h1{
+    padding-bottom: 2px;
+    margin-bottom: 3px;
+    font-family: monospace;
+}
